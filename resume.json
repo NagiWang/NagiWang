@@ -1,1 +1,47 @@
-{"avatar":{"src":"https://avatars.githubusercontent.com/u/15646325?v=4","hidden":true},"profile":{"name":"王能","email":"nagiwang@outlook.com","mobile":"18589343897","github":"https://github.com/NagiWang","zhihu":"https://www.zhihu.com/people/nagis","workExpYear":""},"educationList":[{"edu_time":"2017.09.01,2021.07.01","school":"湖南科技大学","major":"电子信息科学与技术","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[],"skillList":[{"skill_name":"C++","skill_desc":"熟悉 C++ 11 至 C++ 17 标准","skill_level":80,"dataIndex":0},{"skill_name":"Python","skill_desc":"熟悉 Tensorflow、Keras，丰富的 CV 项目经验","skill_level":90,"dataIndex":1}],"projectList":[],"workList":[],"aboutme":{"aboutme_desc":"🌱 Focus on Modern C++\n😈 能力项：自主学习能力"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "hidden": true
+    },
+    "profile": {
+        "name": "王能",
+        "email": "nagiwang@outlook.com",
+        "mobile": "18589343897",
+        "github": "https://github.com/NagiWang",
+        "zhihu": "https://www.zhihu.com/people/nagis",
+        "workExpYear": ""
+    },
+    "educationList": [
+        {
+            "edu_time": "2017.09.01,2021.07.01",
+            "school": "湖南科技大学",
+            "major": "电子信息科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "skillList": [
+        {
+            "skill_name": "C++",
+            "skill_desc": "熟悉 C++ 11 至 C++ 17 标准",
+            "skill_level": 80,
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "Python",
+            "skill_desc": "熟悉 Tensorflow、Keras，丰富的 CV 项目经验",
+            "skill_level": 90,
+            "dataIndex": 1
+        }
+    ],
+    "projectList": [],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "🌱 Focus on Modern C++\n😈 能力项：自主学习能力"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
