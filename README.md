@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi guys 👋
-
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning CUDA
 - 📫 How to reach me: [nagiwang@outlook.com](nagiwang@outlook.com)
